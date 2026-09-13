@@ -49,14 +49,14 @@ Emotion-Detection/
 │
 └── README.md
 
-## 📦 Installation
+📦 Installation
 git clone https://github.com/your-username/Emotion-Detection.git
 cd Emotion-Detection
 
-## Install the required libraries
+Install the required libraries
 pip install tensorflow opencv-python numpy
 
-## 🔮 Future Improvements
+🔮 Future Improvements
 
 Possible improvements for this project include:
 
@@ -72,7 +72,7 @@ Deploy the model as a desktop application
 Use advanced CNN architectures
 Add model performance visualization
 
-##💡 Possible Applications
+💡 Possible Applications
 
 This type of emotion detection system can be used for:
 
@@ -85,17 +85,17 @@ User experience analysis
 AI research projects
 Emotion-aware applications
 
-## 🔐 Disclaimer
+#🔐 Disclaimer
 
 This project is created for educational and demonstration purposes.
 
 Facial emotion recognition is an AI-based prediction and should not be treated as a definitive measurement of a person's actual emotional state.
 
-## 👨‍💻 Author
+ 👨‍💻 Author
 
 RUPESH TANDAN
 
-## ⭐ Support
+ ⭐ Support
 
 If you found this project useful, please consider giving the repository a ⭐ Star on GitHub.
 
